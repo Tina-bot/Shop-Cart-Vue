@@ -7,7 +7,7 @@
 ## Description  🕶
 
 >>This project is a rework of my [shop-cart](https://github.com/Tina-bot/Shop-Cart) </p>
->>but passing the code to __Vue__ without build tools
+>>but passing the code to __Vue__ without build tools (Vue CDN)
 
 
   
